@@ -1,0 +1,19 @@
+.basket-content {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+.summery > button {
+    width: 150px;
+    height: 40px;
+    background-color: bisque;
+    border: solid 1px #000;
+    cursor: pointer;
+}
+
+.summery > button:hover {
+    background-color: rgb(255, 206, 147);
+}
